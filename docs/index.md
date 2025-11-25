@@ -1,0 +1,1 @@
+![Logotipo](assets/logotipo-lords-solx.png)\n\n# Bem-vindo ao site oficial do LORDS (SOLX)\nEste é o repositório onde você encontrará informações sobre o projeto e como participar.
